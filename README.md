@@ -2,10 +2,12 @@
 <!-- slug: tugas-besar-cpp-semester-1 -->
 <!-- title: Tugas Besar C++ Semester 1 -->
 <!-- description: Final semester project in C++ featuring CRUD operations for item management system -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-tugas-besar-cpp -->
+<!-- image: https://github.com/user-attachments/assets/8b23c442-350f-4cf2-abef-1f206bd64c6d -->
 <!-- tags: c++, crud, console-app, semester-project, item-management -->
 
 # C++ Semester 1 Final Project (Tugas Besar)
+
+<img width="1536" height="1024" alt="tugas-besar-cpp-semester-1" src="https://github.com/user-attachments/assets/8b23c442-350f-4cf2-abef-1f206bd64c6d" />
 
 A comprehensive item management system built with C++ as a first-semester final project. This console-based application demonstrates CRUD operations, user authentication, and transaction management.
 
